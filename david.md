@@ -1,3 +1,4 @@
+
 pwd - ubicacion actual
 
 cd - entrar a una carpeta
@@ -20,4 +21,18 @@ git config --global user.name "davidlucky"
 
 git push - para enviarlo
 
-Prueba
+git checkout -b desarrollo para crear un nuevo branch o brazo
+
+git push origin nombre del branch
+
+git checkout nombreDelBranch
+
+
+git push - para enviarlo
+
+git checkout -b desarrollo para crear un nuevo branch o brazo
+
+git push origin nombre del branch
+
+git checkout nombreDelBranch
+
